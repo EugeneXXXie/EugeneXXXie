@@ -2,7 +2,7 @@
 
 Frontend developer with a focus on creating amazing web experiences.
 
-![qln](https://i.imgur.com/BCi4t6Q.jpeg)
+<img src="link-to-your-image" width="200" height="200" style="font-size:center">
 
 ## 🌐 Find me here:
 Visit my website⚡: [ayachinene.top](http://ayachinene.top:11080/)  
