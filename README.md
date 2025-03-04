@@ -2,7 +2,7 @@
 
 Frontend developer with a focus on creating amazing web experiences.
 
-<img src="https://github.com/EugeneXXXie/imagesBase/blob/969c32d8292ab68c7a0de69e4863fbce57364bd4/someStuff/maxresdefault.jpg" width="300" height="300">
+<img src="https://github.com/EugeneXXXie/imagesBase/blob/969c32d8292ab68c7a0de69e4863fbce57364bd4/someStuff/maxresdefault.jpg" height="300">
 
 ## 🌐 Find me here:
 Visit my website⚡: [azusakis.cn](http://azusakis.cn:11080/)  
