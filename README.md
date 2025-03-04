@@ -2,7 +2,7 @@
 
 Frontend developer with a focus on creating amazing web experiences.
 
-<img src="https://i.imgur.com/BCi4t6Q.jpeg" width="300" height="300">
+<img src="[https://i.imgur.com/BCi4t6Q.jpeg](http://azusakis.cn:11080/assets/favicon.8b1ea97d.ico)" width="300" height="300">
 
 ## 🌐 Find me here:
 Visit my website⚡: [azusakis.cn](http://azusakis.cn:11080/)  
